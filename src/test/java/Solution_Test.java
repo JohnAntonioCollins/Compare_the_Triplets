@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
 public class Solution_Test
 {
     Solution solution_Test;
-    
+
     @Before
     public void setUp()
     {
